@@ -18,7 +18,7 @@ class LoginS extends JFrame
      Cursor c1 = new Cursor(Cursor.HAND_CURSOR);
      Font f1 = new Font("Times New Roman",Font.BOLD,18);
      Font f2 = new Font("Callibri",Font.ITALIC,18);
-     l1 = new JLabel("WELCOME TO CODING SEEKHO INSTITUTE");
+     l1 = new JLabel("SURYANSH  LOGIN  SCREEN");
      l1.setFont(f1);
      l1.setForeground(Color.RED);
      l2 = new JLabel("USERNAME");
